@@ -1,5 +1,16 @@
 [
   {
+    "id": "3cd33df7a1d6",
+    "name": "高德地图完美版",
+    "version": "9.5",
+    "category": "",
+    "description": "支持ai灯",
+    "icon": "",
+    "url": "https://apps.sosun.cc/static/downloads/gao_de_di_tu_wan_mei_ban.apk",
+    "download_url": "https://apps.sosun.cc/api/apps/3cd33df7a1d6/download",
+    "tags": []
+  },
+  {
     "id": "xiaobacarlinkiccoa",
     "name": "xiaoba_carlink_ICCOA",
     "version": "v2.0.24",
