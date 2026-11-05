@@ -1,5 +1,16 @@
 [
   {
+    "id": "36b3af80bb60",
+    "name": "高德地图车机版",
+    "version": "v9.5.0.600013",
+    "category": "",
+    "description": "设施",
+    "icon": "",
+    "url": "https://apps.sosun.cc/static/downloads/gao_de_9.5.0.600013_gong_cun_xuan_fu_kai_tian_nei_zhi_zeng_qiang_pei.apk",
+    "download_url": "https://apps.sosun.cc/api/apps/36b3af80bb60/download",
+    "tags": []
+  },
+  {
     "id": "9785cd8ed675",
     "name": "sollin",
     "version": "v2.0",
