@@ -1,5 +1,16 @@
 [
   {
+    "id": "3c19760f84f3",
+    "name": "sollin",
+    "version": "v2.0",
+    "category": "音乐",
+    "description": "",
+    "icon": "",
+    "url": "https://apps.sosun.cc/static/downloads/bu_dong_jiu_xia_zhe_ge_sollin_2.0.0_62_arm64_v8a.apk",
+    "download_url": "https://apps.sosun.cc/api/apps/3c19760f84f3/download",
+    "tags": []
+  },
+  {
     "id": "c1cb6ce2d97b",
     "name": "酷我音乐pj（全屏版可点歌）",
     "version": "v1.0.1.28",
@@ -52,17 +63,6 @@
     "icon": "./icons/app_mus_014.png",
     "url": "https://apps.sosun.cc/static/downloads/qishui_music_1.1.35_che_ji_quan_ping_ban.apk",
     "download_url": "https://apps.sosun.cc/api/apps/8f7d274ea7f4/download",
-    "tags": []
-  },
-  {
-    "id": "9785cd8ed675",
-    "name": "sollin",
-    "version": "v2.0",
-    "category": "音乐",
-    "description": "",
-    "icon": "",
-    "url": "https://apps.sosun.cc/static/downloads/bu_dong_jiu_xia_zai_zhe_ge_sollin_2.0.0_61_arm64_v8a.apk",
-    "download_url": "https://apps.sosun.cc/api/apps/9785cd8ed675/download",
     "tags": []
   },
   {
